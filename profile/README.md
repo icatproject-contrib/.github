@@ -2,7 +2,7 @@
 
 **Welcome to the ICAT Project**
 
-🙋‍♀️ A short introduction - The ICAT project provides a metadata catalogue and related components to support experimental data management for large-scale facilities, linking all aspects of the research lifecycle from proposal through to data and articles publication.
+🙋‍♀️ A short introduction - The [ICAT project](https://icatproject.org/) provides a metadata catalogue and related components to support experimental data management for large-scale facilities, linking all aspects of the research lifecycle from proposal through to data and articles publication.
 
 🍿 This GitHub organisation contains additional contributions to the project. The main GitHub organisation is [ICATproject](https://github.com/icatproject/.)
 

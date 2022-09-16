@@ -9,7 +9,9 @@
 
 👩‍💻 Useful resources - There is documentation for each of the components and it can be found on the [website](https://icatproject.org/user-documentation). You can find tutorials on how to install the tools in the [ICAT Manual](https://github.com/icatproject/icat.manual/tree/master/tutorials).
 
+🧙 In addition to the [ICAT project GitHub](https://github.com/icatproject/), you can also check other [contributions to the ICAT project](https://github.com/icatproject-contrib).
+
+
 <!--
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
